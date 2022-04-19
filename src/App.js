@@ -10,7 +10,6 @@ import Home from "./components/Home";
 import About from "./components/About";
 import Services from "./components/Services";
 import Careers from "./components/Careers";
-import ContactUs from "./components/ContactUs";
 import StatergicSourcing from "./components/StatergicSourcing";
 import TrainingAndDev from "./components/TrainingAndDev";
 import TechnologyCon from "./components/TechnologyCon";
@@ -24,7 +23,7 @@ const App = () => {
     <BrowserRouter>
       <ScrollingProvider>
         <Navigation />
-        <home/>
+        <Home/>
         <Routes>          
           <Route exact path="/" element={<Home />}></Route>
           <Route path="/about" element={<About />}></Route>
