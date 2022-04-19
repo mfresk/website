@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.3f9dd763.css",
+    "main.js": "/website/static/js/main.7f535f44.js",
+    "static/js/27.b916b201.chunk.js": "/website/static/js/27.b916b201.chunk.js",
+    "static/media/home-banner.jpg": "/website/static/media/home-banner.bd2edef801ea4beef164.jpg",
+    "static/media/about-img.jpg": "/website/static/media/about-img.2664418daddb1a370d91.jpg",
+    "static/media/career.jpg": "/website/static/media/career.90fd9127be05404ea0bc.jpg",
+    "static/media/services.jpg": "/website/static/media/services.355d8765b089bbdf11ed.jpg",
+    "static/media/IT_Consulting.png": "/website/static/media/IT_Consulting.1c32d1673e507924486d.png",
+    "index.html": "/website/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.3f9dd763.css",
+    "static/js/main.7f535f44.js"
+  ]
+}
